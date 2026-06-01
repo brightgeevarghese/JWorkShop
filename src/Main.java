@@ -3,4 +3,5 @@
 void main() {
     IO.println("Hello, world!");
     IO.println("From, my friend!");
+    IO.println("From, my another friend!");
 }
