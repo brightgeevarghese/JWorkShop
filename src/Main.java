@@ -2,5 +2,6 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 void main() {
     IO.println("Hello, world!");
-    IO.println("Hello, again");
+    IO.println("From, my friend!");
+    IO.println("I'm a Java programmer!");
 }
