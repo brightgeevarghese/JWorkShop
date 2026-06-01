@@ -4,4 +4,5 @@ void main() {
     IO.println("Hello, world!");
     IO.println("From, my friend!");
     IO.println("I'm a Java programmer!");
+    IO.println("I'm a Java programmer 2!");
 }
